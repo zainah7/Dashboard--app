@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { ThemeProvider } from "./contexts/theme-context";
-import Dashboard from "./pages/dashboard";
+import Dashboard from "./pages/Dashboard";
 import Settings from "./pages/settings"; 
 import Sidebar from "./components/Sidebar";
 import Navbar from "./components/Navbar";
