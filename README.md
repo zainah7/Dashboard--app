@@ -1,6 +1,11 @@
 # Advanced Dashboard UI - Setup Guide
 
 ## Overview
+![alt text](<Screenshot 2025-04-09 at 9.45.41 PM.png>)
+
+![alt text](<Screenshot 2025-04-09 at 9.45.31 PM.png>)
+
+![alt text](<Screenshot 2025-04-09 at 9.45.22 PM.png>)
 
 A production-ready responsive dashboard built with:
 - React 18
@@ -22,13 +27,14 @@ A production-ready responsive dashboard built with:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/dashboard-ui.git
+git clone https://github.com/zainah7/Dashboard--app.git
 cd dashboard-ui
 ```
 
 ### 2. Install Dependencies
 
 Using npm:
+
 ```bash
 npm install
 ```
