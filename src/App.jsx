@@ -1,13 +1,14 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { ThemeProvider } from "./contexts/theme-context";
 import Dashboard from "./pages/Dashboard";
-import Settings from "./pages/settings"; 
+import Settings from "./pages/Settings"; 
 import Sidebar from "./components/Sidebar";
 import Navbar from "./components/Navbar";
 
 function App() {
   return (
     <ThemeProvider>
+      
       <Router>
         <div className="flex h-screen bg-gray-100 dark:bg-gray-900">
           <Sidebar />
